@@ -17,3 +17,7 @@
 
 - To check the test coverage report, `npm t -- --coverage`.
 - To view the coverage report in the browser, after running the above command, just type `open coverage/lcov-report/index.html`
+
+
+## Important --
+- From the branch dropdown, select `tests-completed` branch to see the `__tests__` folder inside `components` directory.
